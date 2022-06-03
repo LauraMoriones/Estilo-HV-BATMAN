@@ -1,0 +1,28 @@
+div {
+  display: inline-block;
+  margin: 5px;
+  border: 10px;
+  solid: rgb(192, 10, 10);
+}
+#container {
+  h1 {
+    font-family: ;
+    column-count: ;
+  }
+}
+#container2 {
+}
+h1 {
+  color: rgb(19, 19, 122);
+  border: 5px solid rgb(75, 65, 65);
+  fond-family: @font-face {
+    font-family: ;
+    src: url(http://bebasneue.com/);
+  }
+}
+.box {
+  background-color: gray;
+  padding: 10px;
+  color: black;
+  text-align: center;
+}
